@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pablojimpas/pablojimpas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pablojimpas&width=820"
+/>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pablojimpas&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px&width=820"
+/>
